@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
     // Initial array of gif buttons
-    var myButtons = ["Thanos", "Porsche", "iPhone", "Cat", "Top Gear", "Airplanes", "Hot Tub", "Ferrari", "BMW", "Lion", "Jet Fighter", "Seattle"];
+    var myButtons = ["Thanos", "Porsche", "iPhone", "Cat", "Top Gear", "Airplanes", "Ferrari", "BMW", "Jet Fighter", "Seattle"];
 
     // re-render function
     function displayGifInfo() {
